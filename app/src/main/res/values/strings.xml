@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quotes</string>
+    <string name="genius">Genius</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="quotify">Quotify</string>
+    <string name="author">author</string>
+    <string name="example">Every strike brings me closer to the next home run.</string>
+</resources>
